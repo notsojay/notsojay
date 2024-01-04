@@ -7,7 +7,7 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=notsojay&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=notsojay&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=notsojay&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
@@ -55,20 +55,18 @@
 
 <div align="left">
   <a href="https://www.instagram.com/notsojay/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="33" alt="instagram logo"  />
   </a>
   <a href="https://www.linkedin.com/in/jiahao-liang-notsojay" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="33" alt="linkedin logo"  />
   </a>
 </div>
 
 ###
 
-<img align="right" height="190" src="https://ucbd49ab93f9622874660eece6b7.previews.dropboxusercontent.com/p/thumb/ACKwKMiGchyqy8jkhwTmm1FwwhUwlYFVYN4eV6YlBAoA6jR-C041yUtEEFh3hv_nu7Czd944FEb8NX-uLteFCfebP1iKBf-SAyHk4FBUZrd_MPYb7YONmWb0yr9EV8cVQusxSKgDo96bfLChsfuaDLi3tXUb5N30hrAzDLKSl-z95ITxwsKqX180KfciqDlcv6M-1oXMkL91kyNJ6BJGsp6QuDxhrFTWAJ7gDXVQ87cGbwy1nRSyRW9T1p4n0vNPFjDE6nBYc-6ESlqqFM1nBmzH6s38j4lMPY7xgDFWXLuUW8w-JCjlOBcuO0cG3PB_Fk8IzfhYMEwIf2MZlTdkClmyQ6UhJAGuuAxReHz6xpDDDsmPJnlUiXBm_mKbflKxgnw/p.jpeg"  />
+<img align="right" height="200" src="https://ucbd49ab93f9622874660eece6b7.previews.dropboxusercontent.com/p/thumb/ACKwKMiGchyqy8jkhwTmm1FwwhUwlYFVYN4eV6YlBAoA6jR-C041yUtEEFh3hv_nu7Czd944FEb8NX-uLteFCfebP1iKBf-SAyHk4FBUZrd_MPYb7YONmWb0yr9EV8cVQusxSKgDo96bfLChsfuaDLi3tXUb5N30hrAzDLKSl-z95ITxwsKqX180KfciqDlcv6M-1oXMkL91kyNJ6BJGsp6QuDxhrFTWAJ7gDXVQ87cGbwy1nRSyRW9T1p4n0vNPFjDE6nBYc-6ESlqqFM1nBmzH6s38j4lMPY7xgDFWXLuUW8w-JCjlOBcuO0cG3PB_Fk8IzfhYMEwIf2MZlTdkClmyQ6UhJAGuuAxReHz6xpDDDsmPJnlUiXBm_mKbflKxgnw/p.jpeg"  />
 
 ###
-
-<br clear="both">
 
 <img src="https://raw.githubusercontent.com/notsojay/notsojay/output/snake.svg" alt="Snake animation" />
 
