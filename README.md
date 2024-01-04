@@ -1,8 +1,9 @@
-<h2 align="center">Hello! I'm Jiahao(Jay) Liang</h2>
+<h1 align="center">Hello👋🏼, I'm Jiahao(Jay) Liang</h1>
+<h2 align="left">About Me</h2>
 
 ###
 
-<p align="left">I am a Computer Science undergrad at the University of California, Irvine (UCI), passionate about transforming ideas into reality through code. I'm currently delving into the fascinating world of technology, exploring fields such as Machine Learning, Full Stack Development, and Embedded Systems.</p>
+<p align="left">Hello! I am a Computer Science undergrad at the <a href="https://uci.edu/" style="text-decoration: none;">University of California, Irvine</a>, passionate about transforming ideas into reality through code. I'm currently delving into the fascinating world of technology, exploring fields such as Machine Learning, Full Stack Development, and Embedded Systems.</p>
 
 ###
 
@@ -66,6 +67,7 @@
 
 ###
 
+<h2 align="left">Others</h2>
 <div align="center">
   <a href="https://open.spotify.com/user/22v4koe3wplpqx46jjod2stea">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=22v4koe3wplpqx46jjod2stea&count=5&unique=true" alt="Spotify recently played"  />
