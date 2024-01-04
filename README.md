@@ -30,8 +30,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="30" alt="apache logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="30" alt="bash logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
@@ -65,5 +63,13 @@
 ###
 
 <img src="https://raw.githubusercontent.com/notsojay/notsojay/output/snake.svg" alt="Snake animation" />
+
+###
+
+<div align="center">
+  <a href="https://open.spotify.com/user/22v4koe3wplpqx46jjod2stea">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=22v4koe3wplpqx46jjod2stea&count=5&unique=true" alt="Spotify recently played"  />
+  </a>
+</div>
 
 ###
