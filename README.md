@@ -64,10 +64,6 @@
 
 ###
 
-<img align="right" height="200" src="https://ucbd49ab93f9622874660eece6b7.previews.dropboxusercontent.com/p/thumb/ACKwKMiGchyqy8jkhwTmm1FwwhUwlYFVYN4eV6YlBAoA6jR-C041yUtEEFh3hv_nu7Czd944FEb8NX-uLteFCfebP1iKBf-SAyHk4FBUZrd_MPYb7YONmWb0yr9EV8cVQusxSKgDo96bfLChsfuaDLi3tXUb5N30hrAzDLKSl-z95ITxwsKqX180KfciqDlcv6M-1oXMkL91kyNJ6BJGsp6QuDxhrFTWAJ7gDXVQ87cGbwy1nRSyRW9T1p4n0vNPFjDE6nBYc-6ESlqqFM1nBmzH6s38j4lMPY7xgDFWXLuUW8w-JCjlOBcuO0cG3PB_Fk8IzfhYMEwIf2MZlTdkClmyQ6UhJAGuuAxReHz6xpDDDsmPJnlUiXBm_mKbflKxgnw/p.jpeg"  />
-
-###
-
 <img src="https://raw.githubusercontent.com/notsojay/notsojay/output/snake.svg" alt="Snake animation" />
 
 ###
