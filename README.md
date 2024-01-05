@@ -2,9 +2,6 @@
 
 ###
 <h2 align="left" style="color: #48d1cc;">About Me 👨🏼‍💻</h2>
-
-###
-
 <p align="left">
   Greetings! I'm a Computer Science undergrad at the 
   <a href="https://uci.edu/" style="text-decoration: none; color: #0077B5;">University of California, Irvine</a>. 
@@ -75,14 +72,9 @@
 ###
 
 <h2 align="left" style="color: #ffa500;">Resume 📝</h2>
-<p>
-  Interested in learning more about my experiences and skills? Take a look at my detailed 
-  <a href="resource/Jiahao_Liang_Resume0.pdf" 
-     style="text-decoration: none; color: #00ced1; font-weight: bold;">
-     resume
-  </a>
-  and discover the projects and roles I've taken on during my journey in Computer Science.
-</p>
+<div align="center">
+  <img height="1200" src="https://ucca2f958ae94926b8b0bda31dc5.previews.dropboxusercontent.com/p/thumb/ACLOArRudchvxV8YDH8LEGvrygUIWMhMg4hLFPWlG5On5iduzpSMB8vZOHG01lMzo1qPI3zDkAYoxP-IqftYbOu3j1mWoWAjFurQfUgwkLpqwVSSL1Dd_4_Ht7Tl87hAP-KexPwF6yc4Tws2xU9CKq8DdlB7-bDpGV_WIZ-iQeJJGZzfqAPG99WX5iu9DKl9fwqkbY0LNL104Ms7he6geVgZ1mMsKw4QqAQz6YbIytne2uUFilsS74EqwERGad_gYPApV7JAYsnQr95BNsHPkcHfRbLFfTY_dTNbJ_3om3aKc51u3pe0LYSozsts6zrCgDesjZN9THEnVjrvw66y7vPHfxZx8qdilnZ2SNvyFWQgCvJhDV6ZNmSlg9ft_sqKHWo/p.jpeg"  />
+</div>
 
 ###
 
