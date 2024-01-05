@@ -1,9 +1,16 @@
-<h1 align="center">Hello👋🏼, I'm Jiahao(Jay) Liang</h1>
-<h2 align="left">About Me</h2>
+<h1 align="center" style="color: #6a5acd; font-family: 'Courier New', Courier, monospace;">Hello 👋🏼, I'm Jiahao(Jay) Liang</h1>
+
+###
+<h2 align="left" style="color: #48d1cc;">About Me 👨🏼‍💻</h2>
 
 ###
 
-<p align="left">Hello! I am a Computer Science undergrad at the <a href="https://uci.edu/" style="text-decoration: none;">University of California, Irvine</a>, passionate about transforming ideas into reality through code. I'm currently delving into the fascinating world of technology, exploring fields such as Machine Learning, Full Stack Development, and Embedded Systems.</p>
+<p align="left">
+  Greetings! I'm a Computer Science undergrad at the 
+  <a href="https://uci.edu/" style="text-decoration: none; color: #0077B5;">University of California, Irvine</a>. 
+  I'm really enthusiastic about coding and its power to turn ideas into reality. Currently, I'm diving into areas like 
+  Machine Learning, Full Stack Development, and Embedded Systems, constantly exploring and learning in the ever-evolving tech landscape.
+</p>
 
 ###
 
@@ -67,7 +74,19 @@
 
 ###
 
-<h2 align="left">Others</h2>
+<h2 align="left" style="color: #ffa500;">Resume 📝</h2>
+<p>
+  Interested in learning more about my experiences and skills? Take a look at my detailed 
+  <a href="https://docs.google.com/document/d/e/2PACX-1vRoPNX5rvMYr8P66i_U8L-Gs98ut9KHuWYtu_sL7FOT1qRNJiPRevaANyFv46B3dmNU2VacagZqsSGY/pub" 
+     style="text-decoration: none; color: #00ced1; font-weight: bold;">
+     resume
+  </a>
+  and discover the projects and roles I've taken on during my journey in Computer Science.
+</p>
+
+###
+
+<h2 align="left">Others 🧩</h2>
 <div align="center">
   <a href="https://open.spotify.com/user/22v4koe3wplpqx46jjod2stea">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=22v4koe3wplpqx46jjod2stea&count=5&unique=true" alt="Spotify recently played"  />
