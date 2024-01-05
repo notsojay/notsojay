@@ -77,7 +77,7 @@
 <h2 align="left" style="color: #ffa500;">Resume 📝</h2>
 <p>
   Interested in learning more about my experiences and skills? Take a look at my detailed 
-  <a href="https://docs.google.com/document/d/e/2PACX-1vRoPNX5rvMYr8P66i_U8L-Gs98ut9KHuWYtu_sL7FOT1qRNJiPRevaANyFv46B3dmNU2VacagZqsSGY/pub" 
+  <a href="resource/Jiahao_Liang_Resume0.pdf" 
      style="text-decoration: none; color: #00ced1; font-weight: bold;">
      resume
   </a>
